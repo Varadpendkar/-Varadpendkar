@@ -41,24 +41,66 @@ I'm **Varad**, an **AI & Data Science undergraduate** passionate about building 
 
 ## 🧰 Tech Stack
 
-<div align="center">
-  <img src="assets/Python.gif" width="130"/>
+### 🖥 Programming
+<div align="left">
+
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash,git,github" height="45"/>  
+  <br>
+  **Python • SQL • HTML/CSS • Bash • Git • JavaScript**
+
 </div>
 
-### 🖥 Programming  
-Python • SQL • HTML/CSS • Bash • Git  
+---
 
-### 📦 Libraries  
-Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn  
-TensorFlow • PyTorch • Keras • OpenCV  
+### 📦 Libraries
+<div align="left">
 
-### 🤖 Domains  
-Machine Learning • Deep Learning  
-NLP • LLMs • Computer Vision  
+  <img src="https://skillicons.dev/icons?i=py,opencv,tensorflow,pytorch" height="45"/>  
+  <br>
 
-### 🚀 Deployment  
-Flask • Streamlit • Gradio • Docker  
-GitHub • Colab • Jupyter  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-4A90E2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
+  <br>
+  **Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • TensorFlow • PyTorch • Keras • OpenCV**
+
+</div>
+
+---
+
+### 🤖 Domains
+<div align="left">
+
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-0B3D91?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NLP-5A5A5A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLMs-232F3E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-0D1017?style=flat-square"/>
+
+  <br>
+  **Machine Learning • Deep Learning • NLP • LLMs • Computer Vision**
+
+</div>
+
+---
+
+### 🚀 Deployment
+<div align="left">
+
+  <img src="https://skillicons.dev/icons?i=flask,streamlit" height="45"/>  
+  <br>
+
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+
+  <br>
+  **Flask • Streamlit • Gradio • GitHub • Google Colab • Jupyter**
+
+</div>
+
 
 ---
 
