@@ -94,10 +94,9 @@ GitHub • Colab • Jupyter
 
 <div align="center">
 
-  <!-- GitHub Stats (stable mirror link) -->
   <img src="https://github-readme-stats-mu-sable.vercel.app/api?username=Varadpendkar&show_icons=true&theme=github_dark&hide_border=false" height="170" />
 
-  <img src="https://github-readme-stats-mu-sable.vercel.app/api/top-langs/?username=Varadpendkar&layout=compact&theme=github_dark&hide_border=false" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Varadpendkar&layout=compact&theme=github_dark&hide_border=false" height="170" />
 
 </div>
 
