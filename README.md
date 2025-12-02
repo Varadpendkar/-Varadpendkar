@@ -1,7 +1,4 @@
-<!--
-  GitHub Profile README for: Varad Pendkar
-  Style: Clean • Modern • Professional
--->
+<!-- GitHub Profile README for: Varad Pendkar -->
 
 <div align="center">
 
@@ -20,7 +17,6 @@
 ---
 
 <div align="center">
-  <!-- Clean typing animation -->
   <img src="https://readme-typing-svg.demolab.com?size=22&duration=3000&pause=800&color=00AEEF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+Making;Deep+Learning+Practitioner;NLP+%7C+LLMs+%7C+Transformers;Computer+Vision+Explorer;Always+Building+Something+New" />
 </div>
 
@@ -28,14 +24,14 @@
 
 ## 👨‍💻 About Me
 
-I'm **Varad**, an **AI & Data Science undergraduate** passionate about creating intelligent ML systems that solve real-world problems.
+I'm **Varad**, an **AI & Data Science undergraduate** passionate about building intelligent systems that solve real-world problems.
 
 - 🎓 B.Tech in **CSE (AI & ML)** — GH Raisoni College of Engineering  
-- 🤖 Experience in **ML, DL, NLP (LLMs), CV, and end-to-end ML pipelines**  
-- 🛠 Skilled in **EDA, model development, evaluation, and deployment**  
-- 🌐 Tools: **Flask, Streamlit, Gradio, GitHub, Colab, Jupyter**  
-- 🎯 Seeking **AI/ML internship opportunities**  
-- 💡 Exploring **LLM integration**, **automation**, and **real-time CV apps**
+- 🤖 Experience with **ML, DL, NLP (LLMs), and Computer Vision**  
+- 🛠 Skilled in **EDA → Modeling → Evaluation → Deployment**  
+- 🌐 Tools I use: **Flask, Streamlit, Gradio, GitHub, Colab, Jupyter**  
+- 🎯 Looking for **AI/ML internship opportunities**  
+- 💡 Exploring **LLM apps**, **automation**, and **real-time CV pipelines**
 
 <div align="center">
   <img src="assets/desktop.gif" width="330" />
@@ -53,13 +49,16 @@ I'm **Varad**, an **AI & Data Science undergraduate** passionate about creating 
 Python • SQL • HTML/CSS • Bash • Git  
 
 ### 📦 Libraries  
-Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • TensorFlow • PyTorch • Keras • OpenCV  
+Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn  
+TensorFlow • PyTorch • Keras • OpenCV  
 
 ### 🤖 Domains  
-Machine Learning • Deep Learning • NLP • LLMs • Computer Vision  
+Machine Learning • Deep Learning  
+NLP • LLMs • Computer Vision  
 
 ### 🚀 Deployment  
-Flask • Streamlit • Gradio • Docker • GitHub • Colab • Jupyter  
+Flask • Streamlit • Gradio • Docker  
+GitHub • Colab • Jupyter  
 
 ---
 
@@ -67,11 +66,11 @@ Flask • Streamlit • Gradio • Docker • GitHub • Colab • Jupyter
 
 | Project | Description | Tech Stack | Status |
 |--------|-------------|------------|--------|
-| **AI-Medpay** | AI-powered insurance ranking, OCR bill analysis, and RAG chatbot | Python, Flask, LightGBM, FAISS, Llama-2, OCR | ✅ Completed |
+| **AI-Medpay** | AI-powered insurance ranking, OCR bill analysis & RAG chatbot | Python, Flask, LightGBM, FAISS, Llama-2, OCR | ✅ Completed |
 | **EDA Automation (Mistral + Gradio)** | Automated EDA tool generating insights, correlations & visuals | Python, Mistral, Gradio, Pandas | ✅ Completed |
-| **Customer Churn Prediction** | ML pipeline with 85% accuracy + SHAP explainability | Python, XGBoost, Scikit-learn, Power BI | 🔄 Ongoing |
-| **Multilingual Translation (Seq2Seq)** | English–Hindi–Spanish translation using Seq2Seq + attention | TensorFlow, Keras, Flask | 🔄 Ongoing |
-| **3D Object Detection** | Real-time detection & tracking with TensorFlow + OpenCV | OpenCV, TensorFlow, Python | 🟦 Improving |
+| **Customer Churn Prediction** | ML pipeline with 85% accuracy + SHAP insights | Python, XGBoost, Scikit-learn, Power BI | 🟦 Improving |
+| **Multilingual Translation (Seq2Seq)** | English–Hindi–Spanish translation using Seq2Seq | TensorFlow, Keras, Flask | 🔄 Ongoing |
+| **3D Object Detection** | Real-time TensorFlow + OpenCV detection & tracking | OpenCV, TensorFlow, Python | 🔄 Ongoing |
 
 ---
 
@@ -83,11 +82,11 @@ Flask • Streamlit • Gradio • Docker • GitHub • Colab • Jupyter
 
 ## 🔥 What I'm Working On
 
-- Improving my **EDA automation** pipeline  
-- Building more **LLM-powered assistants**  
-- Developing **real-time CV tools** with OpenCV  
-- Implementing research papers into code  
-- Growing my AI portfolio with impactful projects  
+- Enhancing my **EDA Automation Tool**  
+- Building new **LLM-driven apps**  
+- Creating **real-time CV systems**  
+- Implementing ML/DL research papers  
+- Expanding my AI project portfolio  
 
 ---
 
@@ -95,12 +94,12 @@ Flask • Streamlit • Gradio • Docker • GitHub • Colab • Jupyter
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Varadpendkar&show_icons=true&theme=github_dark&hide_border=false" height="170" />
+  <!-- GitHub Stats (stable mirror link) -->
+  <img src="https://github-readme-stats-mu-sable.vercel.app/api?username=Varadpendkar&show_icons=true&theme=github_dark&hide_border=false" height="170" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varadpendkar&layout=compact&theme=github_dark&hide_border=false" height="170" />
+  <img src="https://github-readme-stats-mu-sable.vercel.app/api/top-langs/?username=Varadpendkar&layout=compact&theme=github_dark&hide_border=false" height="170" />
 
 </div>
-
 
 ---
 
