@@ -33,7 +33,7 @@ I'm **Varad**, an **AI & Data Science undergraduate** passionate about creating 
 - 🎓 B.Tech in **CSE (AI & ML)** — GH Raisoni College of Engineering  
 - 🤖 Experience in **ML, DL, NLP (LLMs), CV, and end-to-end ML pipelines**  
 - 🛠 Skilled in **EDA, model development, evaluation, and deployment**  
-- 🌐 Tools: **Flask, Streamlit, Gradio, Docker, GitHub, Colab, Jupyter**  
+- 🌐 Tools: **Flask, Streamlit, Gradio, GitHub, Colab, Jupyter**  
 - 🎯 Seeking **AI/ML internship opportunities**  
 - 💡 Exploring **LLM integration**, **automation**, and **real-time CV apps**
 
@@ -69,10 +69,9 @@ Flask • Streamlit • Gradio • Docker • GitHub • Colab • Jupyter
 |--------|-------------|------------|--------|
 | **AI-Medpay** | AI-powered insurance ranking, OCR bill analysis, and RAG chatbot | Python, Flask, LightGBM, FAISS, Llama-2, OCR | ✅ Completed |
 | **EDA Automation (Mistral + Gradio)** | Automated EDA tool generating insights, correlations & visuals | Python, Mistral, Gradio, Pandas | ✅ Completed |
-| **Customer Churn Prediction** | ML pipeline with 85% accuracy + SHAP explainability | Python, XGBoost, Scikit-learn, Power BI | ✅ Completed |
-| **Multilingual Translation (Seq2Seq)** | English–Hindi–Spanish translation using Seq2Seq + attention | TensorFlow, Keras, Flask | ✅ Completed |
+| **Customer Churn Prediction** | ML pipeline with 85% accuracy + SHAP explainability | Python, XGBoost, Scikit-learn, Power BI | 🔄 Ongoing |
+| **Multilingual Translation (Seq2Seq)** | English–Hindi–Spanish translation using Seq2Seq + attention | TensorFlow, Keras, Flask | 🔄 Ongoing |
 | **3D Object Detection** | Real-time detection & tracking with TensorFlow + OpenCV | OpenCV, TensorFlow, Python | 🟦 Improving |
-| **Mini AI/ML Tools** | NLP, CV, automation experiments & utilities | Python, ML/DL | 🟦 Ongoing |
 
 ---
 
