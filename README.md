@@ -75,49 +75,6 @@ Flask • Streamlit • Gradio • Docker • GitHub • Colab • Jupyter
 
 ---
 
-# 📘 Project Summaries (Short & Clean)
-
-### 🏥 AI-Medpay — Smart Health Insurance & Medical Bill Assistant  
-- Intelligent plan ranking using LightGBM  
-- OCR pipeline for medical bill extraction & cost suggestions  
-- RAG chatbot (FAISS + Llama-2) for insurance Q&A  
-- Full-stack dashboards & plan comparison  
-**Tech:** Python • Flask • LightGBM • FAISS • OCR • Llama-2
-
----
-
-### 🔍 EDA Automation — Mistral + Gradio  
-- Automated exploratory data analysis using Mistral LLM  
-- Generates summaries, correlations & visualizations  
-- Gradio-based interface for dataset uploads  
-**Tech:** Python • Mistral • Gradio • Pandas
-
----
-
-### 📉 Customer Churn Prediction  
-- Pipeline from preprocessing → modeling → evaluation  
-- XGBoost & ensembles → **85% accuracy**  
-- SHAP explainability + Power BI dashboard  
-**Tech:** Python • Scikit-learn • XGBoost • Power BI
-
----
-
-### 🌐 Seq2Seq Multilingual Translator  
-- Translation between **English ↔ Hindi ↔ Spanish**  
-- Seq2Seq + attention + BLEU/ROUGE evaluation  
-- Flask API for inference  
-**Tech:** TensorFlow • Keras • NLP • Flask
-
----
-
-### 🎥 3D Object Detection  
-- Real-time object detection & tracking  
-- TensorFlow inference + OpenCV pipelines  
-- Stable bounding boxes & label smoothing  
-**Tech:** OpenCV • TensorFlow • Python
-
----
-
 <div align="center">
   <img src="assets/gif.gif" width="240"/>
 </div>
