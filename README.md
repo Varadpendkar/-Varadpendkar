@@ -63,68 +63,75 @@ Flask • Streamlit • Gradio • Docker • GitHub • Colab • Jupyter
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Key Projects (Compact Overview)
 
-> Full repositories available on my GitHub. More coming soon.
+| Project | Description | Tech Stack | Status |
+|--------|-------------|------------|--------|
+| **AI-Medpay** | AI-powered insurance ranking, OCR bill analysis, and RAG chatbot | Python, Flask, LightGBM, FAISS, Llama-2, OCR | ✅ Completed |
+| **EDA Automation (Mistral + Gradio)** | Automated EDA tool generating insights, correlations & visuals | Python, Mistral, Gradio, Pandas | ✅ Completed |
+| **Customer Churn Prediction** | ML pipeline with 85% accuracy + SHAP explainability | Python, XGBoost, Scikit-learn, Power BI | ✅ Completed |
+| **Multilingual Translation (Seq2Seq)** | English–Hindi–Spanish translation using Seq2Seq + attention | TensorFlow, Keras, Flask | ✅ Completed |
+| **3D Object Detection** | Real-time detection & tracking with TensorFlow + OpenCV | OpenCV, TensorFlow, Python | 🟦 Improving |
+| **Mini AI/ML Tools** | NLP, CV, automation experiments & utilities | Python, ML/DL | 🟦 Ongoing |
 
 ---
 
-### 🏥 AI-Medpay — Smart Health Insurance & Medical Bill Assistant  
-- AI-powered system recommending insurance plans using a LightGBM ranking model  
-- OCR-based medical bill analysis with cost-saving recommendations  
-- RAG-powered chatbot using FAISS + Sentence-Transformers + Llama-2  
-- Full-stack app with dashboards, quote evaluation, and plan comparison  
+# 📘 Project Summaries (Short & Clean)
 
-**Tech:** `Flask` • `LightGBM` • `FAISS` • `Llama-2` • `OCR` • `Python`
+### 🏥 AI-Medpay — Smart Health Insurance & Medical Bill Assistant  
+- Intelligent plan ranking using LightGBM  
+- OCR pipeline for medical bill extraction & cost suggestions  
+- RAG chatbot (FAISS + Llama-2) for insurance Q&A  
+- Full-stack dashboards & plan comparison  
+**Tech:** Python • Flask • LightGBM • FAISS • OCR • Llama-2
 
 ---
 
 ### 🔍 EDA Automation — Mistral + Gradio  
-- Automated EDA assistant using **Mistral LLM**  
-- Handles preprocessing, stats, correlations & visualizations  
-- Clean **Gradio interface** for uploading datasets and generating instant reports  
-
-**Tech:** `Python` • `Mistral` • `Gradio` • `Pandas`
+- Automated exploratory data analysis using Mistral LLM  
+- Generates summaries, correlations & visualizations  
+- Gradio-based interface for dataset uploads  
+**Tech:** Python • Mistral • Gradio • Pandas
 
 ---
 
 ### 📉 Customer Churn Prediction  
-- Built ML pipeline: data cleaning → feature engineering → modeling  
-- Achieved **~85% accuracy** using ensembles + hyperparameter tuning  
-- **SHAP explainability** + **Power BI dashboard** for insights  
-
-**Tech:** `Python` • `XGBoost` • `Scikit-learn` • `Power BI`
-
----
-
-### 🌐 Multilingual Text Translation (Seq2Seq NLP)  
-- Seq2Seq model with attention for **English → Hindi → Spanish**  
-- Tokenization, embeddings, BLEU/ROUGE evaluation  
-- Deployment using **Flask API**  
-
-**Tech:** `TensorFlow` • `Keras` • `Flask` • `NLP`
+- Pipeline from preprocessing → modeling → evaluation  
+- XGBoost & ensembles → **85% accuracy**  
+- SHAP explainability + Power BI dashboard  
+**Tech:** Python • Scikit-learn • XGBoost • Power BI
 
 ---
 
-### 🎥 3D Object Detection from Video  
-- Real-time object detection & tracking using TensorFlow + OpenCV  
-- Stable bounding boxes using tracking + post-processing  
-- Works on video streams and camera inputs  
+### 🌐 Seq2Seq Multilingual Translator  
+- Translation between **English ↔ Hindi ↔ Spanish**  
+- Seq2Seq + attention + BLEU/ROUGE evaluation  
+- Flask API for inference  
+**Tech:** TensorFlow • Keras • NLP • Flask
 
-**Tech:** `OpenCV` • `TensorFlow` • `Python`
+---
+
+### 🎥 3D Object Detection  
+- Real-time object detection & tracking  
+- TensorFlow inference + OpenCV pipelines  
+- Stable bounding boxes & label smoothing  
+**Tech:** OpenCV • TensorFlow • Python
+
+---
+
+<div align="center">
+  <img src="assets/gif.gif" width="240"/>
+</div>
 
 ---
 
 ## 🔥 What I'm Working On
-- Enhancing my **EDA automation tool**  
-- More **LLM-powered data science apps**  
-- Real-time **computer vision pipelines**  
-- Implementing research papers  
-- Expanding my AI project portfolio  
 
-<div align="center">
-  <img src="assets/gif.gif" width="220"/>
-</div>
+- Improving my **EDA automation** pipeline  
+- Building more **LLM-powered assistants**  
+- Developing **real-time CV tools** with OpenCV  
+- Implementing research papers into code  
+- Growing my AI portfolio with impactful projects  
 
 ---
 
@@ -139,7 +146,7 @@ Flask • Streamlit • Gradio • Docker • GitHub • Colab • Jupyter
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect With Me
 
 <div align="center">
 
