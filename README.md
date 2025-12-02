@@ -91,14 +91,12 @@ GitHub • Colab • Jupyter
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-
-  <img src="https://github-readme-stats-mu-sable.vercel.app/api?username=Varadpendkar&show_icons=true&theme=github_dark&hide_border=false" height="170" />
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Varadpendkar&layout=compact&theme=github_dark&hide_border=false" height="170" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varadpendkar&theme=react-dark&area=true&hide_border=false" width="95%"/>
 </div>
+
 
 ---
 
