@@ -95,10 +95,12 @@ Flask • Streamlit • Gradio • Docker • GitHub • Colab • Jupyter
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Varadpendkar&show_icons=true&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varadpendkar&layout=compact&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varadpendkar&show_icons=true&theme=github_dark&hide_border=false" height="170" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varadpendkar&layout=compact&theme=github_dark&hide_border=false" height="170" />
 
 </div>
+
 
 ---
 
